@@ -1,0 +1,40 @@
+{
+  "chapters": [
+    {
+      "title": "Chapter 9",
+      "locked": true
+    },
+    {
+      "title": "Chapter 8",
+      "locked": false
+    },
+    {
+      "title": "Chapter 7",
+      "locked": false
+    },
+    {
+      "title": "Chapter 6",
+      "locked": false
+    },
+    {
+      "title": "Chapter 5",
+      "locked": false
+    },
+    {
+      "title": "Chapter 4",
+      "locked": false
+    },
+    {
+      "title": "Chapter 3",
+      "locked": false
+    },
+    {
+      "title": "Chapter 2",
+      "locked": false
+    },
+    {
+      "title": "Chapter 1",
+      "locked": false
+    }
+  ]
+}
