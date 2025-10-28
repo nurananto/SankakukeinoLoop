@@ -31,77 +31,93 @@
   "chapters": {
     "1": {
       "title": "Chapter 1",
+      "chapter": 1.0,
       "folder": "1",
-      "pages": 55,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": false
+      "totalPages": 55,
+      "pages": 55,
+      "locked": false,
+      "views": 0
     },
     "2": {
       "title": "Chapter 2",
+      "chapter": 2.0,
       "folder": "2",
-      "pages": 31,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": false
+      "totalPages": 31,
+      "pages": 31,
+      "locked": false,
+      "views": 0
     },
     "3": {
       "title": "Chapter 3",
+      "chapter": 3.0,
       "folder": "3",
-      "pages": 30,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": false
+      "totalPages": 30,
+      "pages": 30,
+      "locked": false,
+      "views": 0
     },
     "4": {
       "title": "Chapter 4",
+      "chapter": 4.0,
       "folder": "4",
-      "pages": 31,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": false
+      "totalPages": 31,
+      "pages": 31,
+      "locked": false,
+      "views": 0
     },
     "5": {
       "title": "Chapter 5",
+      "chapter": 5.0,
       "folder": "5",
-      "pages": 26,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": false
+      "totalPages": 26,
+      "pages": 26,
+      "locked": false,
+      "views": 0
     },
     "6": {
       "title": "Chapter 6",
+      "chapter": 6.0,
       "folder": "6",
-      "pages": 26,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": false
+      "totalPages": 26,
+      "pages": 26,
+      "locked": false,
+      "views": 0
     },
     "7": {
       "title": "Chapter 7",
+      "chapter": 7.0,
       "folder": "7",
-      "pages": 14,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": false
+      "totalPages": 14,
+      "pages": 14,
+      "locked": false,
+      "views": 0
     },
     "8": {
       "title": "Chapter 8",
+      "chapter": 8.0,
       "folder": "8",
-      "pages": 34,
-      "views": 0,
       "uploadDate": "2025-10-26",
-      "locked": false
+      "totalPages": 34,
+      "pages": 34,
+      "locked": false,
+      "views": 0
     },
     "9": {
       "title": "Chapter 9",
       "folder": "9",
       "pages": 0,
       "views": 0,
-      "uploadDate": null,
+      "uploadDate": "2025-10-26",
       "locked": true
     }
   },
-  "lastUpdated": "2025-10-27T02:02:41.863Z",
-  "lastChapterUpdate": "2025-10-26T01:58:11.806Z"
+  "lastChapterUpdate": "2025-10-26",
+  "lastUpdated": "2025-10-28T01:52:01.445840Z"
 }
