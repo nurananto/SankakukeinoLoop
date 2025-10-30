@@ -31,7 +31,7 @@
   "chapters": {
     "1": {
       "title": "Chapter 1",
-      "chapter": 1.0,
+      "chapter": 1,
       "folder": "1",
       "uploadDate": "2025-10-10",
       "totalPages": 55,
@@ -41,7 +41,7 @@
     },
     "2": {
       "title": "Chapter 2",
-      "chapter": 2.0,
+      "chapter": 2,
       "folder": "2",
       "uploadDate": "2025-10-10",
       "totalPages": 31,
@@ -51,7 +51,7 @@
     },
     "3": {
       "title": "Chapter 3",
-      "chapter": 3.0,
+      "chapter": 3,
       "folder": "3",
       "uploadDate": "2025-10-10",
       "totalPages": 30,
@@ -61,7 +61,7 @@
     },
     "4": {
       "title": "Chapter 4",
-      "chapter": 4.0,
+      "chapter": 4,
       "folder": "4",
       "uploadDate": "2025-10-10",
       "totalPages": 31,
@@ -71,7 +71,7 @@
     },
     "5": {
       "title": "Chapter 5",
-      "chapter": 5.0,
+      "chapter": 5,
       "folder": "5",
       "uploadDate": "2025-10-10",
       "totalPages": 26,
@@ -81,7 +81,7 @@
     },
     "6": {
       "title": "Chapter 6",
-      "chapter": 6.0,
+      "chapter": 6,
       "folder": "6",
       "uploadDate": "2025-10-10",
       "totalPages": 26,
@@ -91,7 +91,7 @@
     },
     "7": {
       "title": "Chapter 7",
-      "chapter": 7.0,
+      "chapter": 7,
       "folder": "7",
       "uploadDate": "2025-10-10",
       "totalPages": 14,
@@ -101,7 +101,7 @@
     },
     "8": {
       "title": "Chapter 8",
-      "chapter": 8.0,
+      "chapter": 8,
       "folder": "8",
       "uploadDate": "22025-10-10",
       "totalPages": 34,
@@ -111,13 +111,15 @@
     },
     "9": {
       "title": "Chapter 9",
+      "chapter": 9,
       "folder": "9",
+      "uploadDate": "22025-10-10",
+      "totalPages": 0,
       "pages": 0,
-      "views": 0,
-      "uploadDate": "2025-10-10",
-      "locked": true
+      "locked": true,
+      "views": 0
     }
   },
-  "lastChapterUpdate": "2025-10-10",
-  "lastUpdated": "2025-10-29T01:59:04.563697Z"
+  "lastUpdated": "2025-10-30T01:43:32.776Z",
+  "lastChapterUpdate": "22025-10-10"
 }
