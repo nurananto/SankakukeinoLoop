@@ -103,7 +103,7 @@
       "title": "Chapter 8",
       "chapter": 8,
       "folder": "8",
-      "uploadDate": "22025-10-10",
+      "uploadDate": "2025-10-10",
       "totalPages": 34,
       "pages": 34,
       "locked": false,
@@ -113,7 +113,7 @@
       "title": "Chapter 9",
       "chapter": 9,
       "folder": "9",
-      "uploadDate": "22025-10-10",
+      "uploadDate": "2025-10-10",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
@@ -121,5 +121,5 @@
     }
   },
   "lastUpdated": "2025-10-30T01:43:32.776Z",
-  "lastChapterUpdate": "22025-10-10"
+  "lastChapterUpdate": "2025-10-10"
 }
