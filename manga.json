@@ -37,7 +37,7 @@
       "totalPages": 55,
       "pages": 55,
       "locked": false,
-      "views": 0
+      "views": 10
     },
     "2": {
       "title": "Chapter 2",
@@ -113,13 +113,13 @@
       "title": "Chapter 9",
       "chapter": 9,
       "folder": "9",
-      "uploadDate": "2025-11-04T09:15:02+07:00",
+      "uploadDate": "2025-11-05T09:16:54+07:00",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
       "views": 24
     }
   },
-  "lastUpdated": "2025-11-04T09:15:02+07:00",
+  "lastUpdated": "2025-11-05T09:16:54+07:00",
   "lastChapterUpdate": "2025-10-16T04:35:44+07:00"
 }
