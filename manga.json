@@ -16,7 +16,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 144,
+    "views": 145,
     "links": {
       "mangadex": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480/seishun-wa-sankakukei-no-loop",
       "raw": "https://comic-walker.com/detail/KC_006586_S"
@@ -24,9 +24,7 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/SankakukeinoLoop/main/",
     "imagePrefix": "Image",
     "imageFormat": "jpg",
-    "lockedChapters": [
-      "9"
-    ]
+    "lockedChapters": []
   },
   "chapters": {
     "1": {
@@ -107,19 +105,9 @@
       "totalPages": 34,
       "pages": 34,
       "locked": false,
-      "views": 56
-    },
-    "9": {
-      "title": "Chapter 9",
-      "chapter": 9,
-      "folder": "9",
-      "uploadDate": "2025-11-07T09:15:21+07:00",
-      "totalPages": 0,
-      "pages": 0,
-      "locked": true,
-      "views": 39
+      "views": 57
     }
   },
-  "lastUpdated": "2025-11-08T20:45:33+07:00",
-  "lastChapterUpdate": "2025-11-07T09:15:21+07:00"
+  "lastUpdated": "2025-11-08T20:58:29+07:00",
+  "lastChapterUpdate": "2025-10-16T04:35:44+07:00"
 }
