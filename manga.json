@@ -2,7 +2,7 @@
   "manga": {
     "title": "Seishun wa Sankakukei no Loop",
     "alternativeTitle": "青春は三角形のループ",
-    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/sankakukei-4cf5a0cc-9123-43bd-bf54-c5f8c0aa9e16.jpg",
+    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/sankakukei-4cf5a0cc-9123-43bd-bf54-c5f8c0aa9e16.webp",
     "description": "—Karena aku lebih memperhatikannya daripada siapa pun, aku jadi tahu.Kalau dia sedang jatuh cinta sekarang.Dan orang yang dia sukai itu adalah sahabatku sendiri, teman masa kecil kami berdua.Sang protagonis, Tsubaki, memutuskan untuk mengubur perasaannya dan membantu cinta sang gadis terwujud.Berkat usahanya juga, dua teman masa kecil yang selalu bersama itu akhirnya resmi menjadi pasangan.Setelah menyaksikan momen itu, Tsubaki menjalani malam tanpa tidur sambil menahan perasaan ingin berteriak—dan ketika dia terbangun berikutnya—Dia kembali mengubur perasaannya…",
     "author": "Yasuzumi Kei",
     "artist": "Mito",
@@ -16,7 +16,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 254,
+    "views": 262,
     "links": {
       "mangadex": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480/seishun-wa-sankakukei-no-loop",
       "raw": "https://comic-walker.com/detail/KC_006586_S"
@@ -35,7 +35,7 @@
       "totalPages": 55,
       "pages": 55,
       "locked": false,
-      "views": 16
+      "views": 17
     },
     "2": {
       "title": "Chapter 2",
@@ -105,9 +105,9 @@
       "totalPages": 34,
       "pages": 34,
       "locked": false,
-      "views": 120
+      "views": 123
     }
   },
-  "lastUpdated": "2025-11-18T09:16:20+07:00",
+  "lastUpdated": "2025-11-19T00:42:03+07:00",
   "lastChapterUpdate": "2025-10-16T04:35:44+07:00"
 }
