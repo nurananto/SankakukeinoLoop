@@ -32,8 +32,8 @@
       "chapter": 1,
       "folder": "1",
       "uploadDate": "2025-10-16T04:35:44+07:00",
-      "totalPages": 55,
-      "pages": 55,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 17
     },
@@ -42,8 +42,8 @@
       "chapter": 2,
       "folder": "2",
       "uploadDate": "2025-10-16T04:35:44+07:00",
-      "totalPages": 31,
-      "pages": 31,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 15
     },
@@ -52,8 +52,8 @@
       "chapter": 3,
       "folder": "3",
       "uploadDate": "2025-10-16T04:35:44+07:00",
-      "totalPages": 30,
-      "pages": 30,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 14
     },
@@ -62,8 +62,8 @@
       "chapter": 4,
       "folder": "4",
       "uploadDate": "2025-10-16T04:35:44+07:00",
-      "totalPages": 31,
-      "pages": 31,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 11
     },
@@ -72,8 +72,8 @@
       "chapter": 5,
       "folder": "5",
       "uploadDate": "2025-10-16T04:35:44+07:00",
-      "totalPages": 26,
-      "pages": 26,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 13
     },
@@ -82,8 +82,8 @@
       "chapter": 6,
       "folder": "6",
       "uploadDate": "2025-10-16T04:35:44+07:00",
-      "totalPages": 26,
-      "pages": 26,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 14
     },
@@ -92,8 +92,8 @@
       "chapter": 7,
       "folder": "7",
       "uploadDate": "2025-10-16T04:35:44+07:00",
-      "totalPages": 14,
-      "pages": 14,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 17
     },
@@ -102,12 +102,12 @@
       "chapter": 8,
       "folder": "8",
       "uploadDate": "2025-10-16T04:35:44+07:00",
-      "totalPages": 34,
-      "pages": 34,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 128
     }
   },
-  "lastUpdated": "2025-11-26T09:18:26+07:00",
+  "lastUpdated": "2025-11-27T00:14:25+07:00",
   "lastChapterUpdate": "2025-10-16T04:35:44+07:00"
 }
