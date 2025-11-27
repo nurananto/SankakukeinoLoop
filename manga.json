@@ -1,0 +1,113 @@
+{
+  "manga": {
+    "title": "Seishun wa Sankakukei no Loop",
+    "alternativeTitle": "青春は三角形のループ",
+    "cover": "https://cdn.nuranantoscans.my.id/covers/sankakukei-4cf5a0cc-9123-43bd-bf54-c5f8c0aa9e16.webp",
+    "description": "—Karena aku lebih memperhatikannya daripada siapa pun, aku jadi tahu.Kalau dia sedang jatuh cinta sekarang.Dan orang yang dia sukai itu adalah sahabatku sendiri, teman masa kecil kami berdua.Sang protagonis, Tsubaki, memutuskan untuk mengubur perasaannya dan membantu cinta sang gadis terwujud.Berkat usahanya juga, dua teman masa kecil yang selalu bersama itu akhirnya resmi menjadi pasangan.Setelah menyaksikan momen itu, Tsubaki menjalani malam tanpa tidur sambil menahan perasaan ingin berteriak—dan ketika dia terbangun berikutnya—Dia kembali mengubur perasaannya…",
+    "author": "Yasuzumi Kei",
+    "artist": "Mito",
+    "genre": [
+      "Drama",
+      "Shounen",
+      "Fantasy",
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "Ongoing",
+    "views": 5,
+    "links": {
+      "mangadex": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480/seishun-wa-sankakukei-no-loop",
+      "raw": "https://comic-walker.com/detail/KC_006586_S"
+    },
+    "repoUrl": "https://raw.githubusercontent.com/nurananto/SankakukeinoLoop/main/",
+    "imagePrefix": "Image",
+    "imageFormat": "webp",
+    "lockedChapters": []
+  },
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "chapter": 1,
+      "folder": "1",
+      "uploadDate": "2025-11-27T23:09:43+07:00",
+      "totalPages": 55,
+      "pages": 55,
+      "locked": false,
+      "views": 0
+    },
+    "2": {
+      "title": "Chapter 2",
+      "chapter": 2,
+      "folder": "2",
+      "uploadDate": "2025-11-27T23:09:43+07:00",
+      "totalPages": 31,
+      "pages": 31,
+      "locked": false,
+      "views": 0
+    },
+    "3": {
+      "title": "Chapter 3",
+      "chapter": 3,
+      "folder": "3",
+      "uploadDate": "2025-11-27T23:09:43+07:00",
+      "totalPages": 30,
+      "pages": 30,
+      "locked": false,
+      "views": 0
+    },
+    "4": {
+      "title": "Chapter 4",
+      "chapter": 4,
+      "folder": "4",
+      "uploadDate": "2025-11-27T23:09:43+07:00",
+      "totalPages": 31,
+      "pages": 31,
+      "locked": false,
+      "views": 0
+    },
+    "5": {
+      "title": "Chapter 5",
+      "chapter": 5,
+      "folder": "5",
+      "uploadDate": "2025-11-27T23:09:43+07:00",
+      "totalPages": 26,
+      "pages": 26,
+      "locked": false,
+      "views": 0
+    },
+    "6": {
+      "title": "Chapter 6",
+      "chapter": 6,
+      "folder": "6",
+      "uploadDate": "2025-11-27T23:09:43+07:00",
+      "totalPages": 26,
+      "pages": 26,
+      "locked": false,
+      "views": 0
+    },
+    "7": {
+      "title": "Chapter 7",
+      "chapter": 7,
+      "folder": "7",
+      "uploadDate": "2025-11-27T23:09:43+07:00",
+      "totalPages": 14,
+      "pages": 14,
+      "locked": false,
+      "views": 0
+    },
+    "8": {
+      "title": "Chapter 8",
+      "chapter": 8,
+      "folder": "8",
+      "uploadDate": "2025-11-27T23:09:43+07:00",
+      "totalPages": 34,
+      "pages": 34,
+      "locked": false,
+      "views": 2
+    }
+  },
+  "lastUpdated": "2025-11-28T00:13:18+07:00",
+  "lastChapterUpdate": "2025-11-27T23:09:43+07:00"
+}
