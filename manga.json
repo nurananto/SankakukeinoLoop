@@ -15,7 +15,7 @@
       "School Life",
       "Slice of Life"
     ],
-    "status": "Ongoing",
+    "status": "ONGOING",
     "views": 266,
     "links": {
       "mangadex": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480/seishun-wa-sankakukei-no-loop",
@@ -24,7 +24,8 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/SankakukeinoLoop/main/",
     "imagePrefix": "Image",
     "imageFormat": "webp",
-    "lockedChapters": []
+    "lockedChapters": [],
+    "type": "manga"
   },
   "chapters": {
     "1": {
@@ -106,8 +107,18 @@
       "pages": 34,
       "locked": false,
       "views": 163
+    },
+    "9": {
+      "title": "Chapter 9",
+      "chapter": 9,
+      "folder": "9",
+      "uploadDate": "2025-12-09T21:11:06+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
     }
   },
-  "lastUpdated": "2025-12-09T00:15:58+07:00",
-  "lastChapterUpdate": "2025-11-27T23:09:43+07:00"
+  "lastUpdated": "2025-12-09T21:11:06+07:00",
+  "lastChapterUpdate": "2025-12-09T21:11:06+07:00"
 }
