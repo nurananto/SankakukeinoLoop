@@ -1,4 +1,5 @@
 {
+  "type": "manga",
   "title": "Seishun wa Sankakukei no Loop",
   "alternativeTitle": "青春は三角形のループ",
   "cover": "https://cdn.nuranantoscans.my.id/covers/sankakukei-4cf5a0cc-9123-43bd-bf54-c5f8c0aa9e16.webp",
@@ -14,7 +15,8 @@
     "School Life",
     "Slice of Life"
   ],
-  "status": "Ongoing",
+  "status": "ONGOING",
+  "endChapter": null,
   "views": 0,
   "links": {
     "mangadex": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480/seishun-wa-sankakukei-no-loop",
