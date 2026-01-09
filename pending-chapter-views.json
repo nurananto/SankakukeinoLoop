@@ -1,49 +1,49 @@
 {
   "chapters": {
     "1": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-08T18:58:22.202Z",
-      "lastUpdate": "2026-01-06T00:18:20+07:00"
+      "lastUpdate": "2026-01-09T09:35:22+07:00"
     },
     "2": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-08T18:58:58.153Z",
-      "lastUpdate": "2026-01-06T00:18:20+07:00"
+      "lastUpdate": "2026-01-09T09:35:22+07:00"
     },
     "3": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-08T19:00:02.488Z",
-      "lastUpdate": "2026-01-06T00:18:20+07:00"
+      "lastUpdate": "2026-01-09T09:35:22+07:00"
     },
     "4": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-08T19:00:56.596Z",
-      "lastUpdate": "2026-01-06T00:18:20+07:00"
+      "lastUpdate": "2026-01-09T09:35:22+07:00"
     },
     "5": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-08T19:01:17.589Z",
-      "lastUpdate": "2026-01-06T00:18:20+07:00"
+      "lastUpdate": "2026-01-09T09:35:22+07:00"
     },
     "6": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-08T19:03:10.153Z",
-      "lastUpdate": "2026-01-06T00:18:20+07:00"
+      "lastUpdate": "2026-01-09T09:35:22+07:00"
     },
     "7": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-08T19:05:42.258Z",
-      "lastUpdate": "2026-01-06T00:18:20+07:00"
+      "lastUpdate": "2026-01-09T09:35:22+07:00"
     },
     "8": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-08T21:45:51.157Z",
-      "lastUpdate": "2026-01-07T00:19:38+07:00"
+      "lastUpdate": "2026-01-09T09:35:22+07:00"
     },
     "9": {
-      "pendingViews": 12,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-09T01:12:38.314Z",
-      "lastUpdate": "2026-01-09T00:23:01+07:00"
+      "lastUpdate": "2026-01-09T09:35:22+07:00"
     }
   },
   "lastUpdated": "2026-01-09T00:23:01+07:00"
