@@ -13,9 +13,7 @@
 | Author | Yasuzumi Kei |
 | Artist | Mito |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Drama · Shounen · Fantasy · Comedy · Romance · School Life · Slice of Life |
-| Chapter | 10 chapter |
 
 ## Link
 
