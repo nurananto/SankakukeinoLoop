@@ -16,7 +16,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 2955,
+    "views": 2988,
     "links": {
       "mangadex": "https://mangadex.org/title/e6d70578-d6b2-4c60-a2f4-7ab16e515480/seishun-wa-sankakukei-no-loop",
       "raw": "https://comic-walker.com/detail/KC_006586_S"
@@ -36,7 +36,7 @@
       "totalPages": 55,
       "pages": 55,
       "locked": false,
-      "views": 261
+      "views": 264
     },
     "2": {
       "title": "Chapter 2",
@@ -46,7 +46,7 @@
       "totalPages": 31,
       "pages": 31,
       "locked": false,
-      "views": 160
+      "views": 162
     },
     "3": {
       "title": "Chapter 3",
@@ -56,7 +56,7 @@
       "totalPages": 30,
       "pages": 30,
       "locked": false,
-      "views": 157
+      "views": 158
     },
     "4": {
       "title": "Chapter 4",
@@ -66,7 +66,7 @@
       "totalPages": 31,
       "pages": 31,
       "locked": false,
-      "views": 153
+      "views": 154
     },
     "5": {
       "title": "Chapter 5",
@@ -106,7 +106,7 @@
       "totalPages": 34,
       "pages": 34,
       "locked": false,
-      "views": 443
+      "views": 445
     },
     "9": {
       "title": "Chapter 9",
@@ -116,7 +116,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 1247
+      "views": 1251
     },
     "10": {
       "title": "Chapter 10",
@@ -126,9 +126,9 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 656
+      "views": 669
     }
   },
-  "lastUpdated": "2026-03-05T19:01:10.426Z",
+  "lastUpdated": "2026-03-06T17:11:07.908Z",
   "lastChapterUpdate": "2026-01-09T09:34:30+07:00"
 }
